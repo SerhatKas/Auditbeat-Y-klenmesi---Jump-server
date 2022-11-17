@@ -1,2 +1,2 @@
-# Auditbeat-Y-klenmesi---Jump-server
+# Auditbeat-Yuklenmesi---Jump-server
 Sunucuya Auditbeat Yüklenmesi işlemi gerçekleştirilmiştir.
